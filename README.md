@@ -29,54 +29,49 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Excellent communicator
 
-During my time at Richard Hough Limited, I was tasked with communicating regularly with customers both in England and oversees, this included telephone conversations, emails and meeting face to face with new and existing clientel.  I utilised this ability on many occasions during my employment, one especially was during ITMA Milan 2015 where I represented Richard Hough Limited for 2 weeks during the exhibition meeting hundreds of clients both old and new over the duration, aquiring new buisness leads and maintaining relationships.  This skill has proved incredibly useful during my learning at Makers Academy as it has enabled me to build up instant repore with my fellow colleagues and allowed open communication while pairing on coding projects to keep our learning on track to complete the task at hand, this has been evidenced by the successful group projects I have had the pleasure of working on while at Makers Academy, such as HabiChat and MakersBnB.
+During my employment, I communicated regularly with customers internationally, this included telephone conversations, emails and meeting face to face with new and existing clientel.  I utilised this ability on many occasions during my employment, one especially was during ITMA(International Textile Machinery Association), Milan 2015 where I represented Richard Hough Limited for 2 weeks on our own ehibition unit meeting hundreds of clients both old and new over the duration, aquiring new buisness leads and maintaining relationships.  This skill has proved useful during my learning at Makers Academy as it has enabled me to build up instant repore with my fellow colleagues and allowed open communication while pairing on coding projects to keep learning on track to complete the task at hand. This has been evidenced by the successful group [projects](#projects) I have had the pleasure of working on while at Makers Academy, such as HabiChat and MakersBnB.
 
 #### Adaptable
 
-I have worked around the world with a large diversity of cultures and people.  New environments, new languages, new challenges; both in the workplace and during my software development education.  None of these are problems, only opportunities to learn and grow.
+I have worked around the world with a large diversity of cultures and people.  New environments, new languages, new challenges; both in the workplace and during my software development education.  These opportunities have been incredibly useful to learn and grow.
 
 #### Attention to detail
 
-I have always enjoyed solving a problem, be that from my experience at University or learning at Makers Academy. With this I have developed a keen eye for detail which has been incredilby useful when it has come to solving mathematical equations at university, or finding that one bug in the code.
+I have always enjoyed solving a problem, be that from my experience at University or learning at Makers Academy. With this I have developed a keen eye for detail which has been incredilby useful, be it solving mathematical equations at university or finding that one bug in the code.
 
-#### Positve attitude
+#### Enthusiastic attitude
 
 I am a happy, confident and positive person.  I like to show that through my personality and through the pride I take in my work.  I like to think that this attitude helps myself to accomplish the task at hand, remain focussed and also help others around me in focusing in the same way.  I have found this very useful while pair partnering with others to work on our code.
 
-
-
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Jan'17 - Mar'17)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+A highly selective 16 week intensive software development bootcamp, with focuses on:
 
-#### Your University / College (start_date to end_date)
+- A focus on Test Driven Development
+- Agile methodologies
+- Object-oriented programming & software design
+- Pair programming
+- Full Stack web development
+- Independent learning and critical thinking
+- Experience with MVC framework patterns
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### University of Sussex (Oct'11 - Jun'14)
 
-#### Any other qualifications
+- BSc(Hons) Mathematics
+- Modules in statistics, financial mathematics, analysis and coding theory.
+
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Richard Hough Limited** (Jun'14 - Jul'16)    
+*Business Development Manager*
+As the Business Development Manager I was tasked with learning the needs and requirements of both the company itself and the customers with whom we delt with.  Communication and a thorough understanding of products and technical aspects were required to be successful in this role. I organised and attended exhibition events globally, was the point of contact of the business to customers for maintaining and creating business relations and helped generate sales.
+
+## Interests
+
+**Active memeber of the Kings Cross Steelers rugby club here in London.**
+**Going to the gym.**
+**Computer game enthusiast.**
+**Enjoy overseas travel.**
