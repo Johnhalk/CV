@@ -19,14 +19,6 @@ My time after this has been spent aspiring to expand my knowledge on coding and 
 
 ## Skills
 
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
 #### Excellent communicator
 
 During my employment, I communicated regularly with customers internationally, this included telephone conversations, emails and meeting face to face with new and existing clientel.  I utilised this ability on many occasions during my employment, one especially was during ITMA(International Textile Machinery Association), Milan 2015 where I represented Richard Hough Limited for 2 weeks on our own ehibition unit meeting hundreds of clients both old and new over the duration, aquiring new buisness leads and maintaining relationships.  This skill has proved useful during my learning at Makers Academy as it has enabled me to build up instant repore with my fellow colleagues and allowed open communication while pairing on coding projects to keep learning on track to complete the task at hand. This has been evidenced by the successful group [projects](#projects) I have had the pleasure of working on while at Makers Academy, such as HabiChat and MakersBnB.
