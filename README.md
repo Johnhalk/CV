@@ -1,6 +1,6 @@
 ## John Ashton
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://uk.linkedin.com/in/john-ashton-890654106) |
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/john-ashton-890654106) |
 
 I am an aspiring and ambitious full stack junior developer whom is looking for a role where I can expand and consolidate my programming knowledge, while also gaining more exposure to project management and working in the tech industry as part of a team to grow myself and others in this industry.
 
@@ -10,6 +10,7 @@ My time after this has been spent aspiring to expand my knowledge on coding and 
 
 **Tech Skills** : Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
 
+## Projects
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
@@ -63,7 +64,7 @@ As the Business Development Manager I was tasked with learning the needs and req
 
 ## Interests
 
-**Active memeber of the Kings Cross Steelers rugby club here in London.**
-**Going to the gym.**
-**Computer game enthusiast.**
-**Enjoy overseas travel.**
+- **Active memeber of the Kings Cross Steelers rugby club here in London.**
+- **Going to the gym.**
+- **Computer game enthusiast.**
+- **Enjoy overseas travel.**
