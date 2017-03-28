@@ -62,7 +62,7 @@ A highly selective 16 week intensive software development bootcamp, with focuses
 *Business Development Manager*
 As the Business Development Manager I was tasked with learning the needs and requirements of both the company itself and the customers with whom we delt with.  Communication and a thorough understanding of products and technical aspects were required to be successful in this role. I organised and attended exhibition events globally, was the point of contact of the business to customers for maintaining and creating business relations and helped generate sales.
 
-I worked within industry sectors such as Paper, Textiles, Steel and Automotive production lines.  These varying range of industries required me to understand individual tailored requirements for customers dependant on their companies needs.  This has helped me keep a critical eye for detail and seeing the bigger picture at hand.
+I worked within industry sectors such as Paper, Textiles, Steel and Automotive production lines.  These varying range of industries required me to understand individual tailored requirements for customers dependant on their companies needs.  This has helped me keep a critical eye for detail and seeing the bigger picture at hand. 
 
 Some of the companies I worked with consisted of:
 
