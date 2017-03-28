@@ -66,7 +66,7 @@ I worked within industry sectors such as Paper, Textiles, Steel and Automotive p
 
 Some of the companies I worked with consisted of:
 
-- Jaguar Landrover, Automotive (Birmingham)
+- Jaguar Land Rover, Automotive (Birmingham)
 - UPM Caledonian Paper, Paper (Scotland)
 - Shanghai General Motors, Automotive (China)
 - Getzner Textil AG, Textiles (Austria)
