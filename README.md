@@ -8,7 +8,7 @@ After completing my BSc(Hons) in Mathematics at the University of Sussex, I spen
 
 My time after this has been spent aspiring to expand my knowledge on coding and in doing so have been learning to code at Makers Academy, a highly selective and intensive 16 week software development bootcamp.
 
-**Tech Skills** : ReactJS, Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
+**Tech Skills** : ReactJS, JavaScript, Python, Django, Ruby, Rails, Sinatra, HTML, CSS, jQuery, Bootstrap, PostgreSQL
 
 ## Projects
 
