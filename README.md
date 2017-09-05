@@ -14,8 +14,11 @@ My time after this has been spent aspiring to expand my knowledge on coding and 
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [HabiChat](https://github.com/Johnhalk/HabiChat) | A web app which allows users to plan tasks, schedule them in a calendar and communicate with one another. Deployed on Heroku(https://habichat.herokuapp.com/) | Rails, devise, ERB, postgreSQL, HTML/CSS, Bootstrap, JQuery, RSpec/Capybara, Coveralls, WebSockets(ActionCable) |
 |[Emotify](https://github.com/Johnhalk/emotify)| Final project at Makers Academy where we self taught ourselves React, deployed on Heroku(https://emotify-ma.herokuapp.com/).  A web app that utilises a web camera to take pictures and analyses peoples faces in the pictures to gauge emotions.  The data based on emotions are then fed back to the user via graphs as well as coded into hardware to change the display of a light based on the dominant emotion. | ReactJS, Microsoft Cognitive Services API, LIFX API, Jest, Enzyme, CSS|
+| [Pass The Booking](https://github.com/Johnhalk/PassTheBookingV2) | 
+A web app built in the Django framework that allows for the management of properties, showing client information, property details linked to the client as well as bookings for that property. Deployed on Pythonanywhere( http://johnashtonpyt
+ hon.pythonanywhere.com) |Python, Django, unittest, SQLite database, CSS, Bootstrap |
+| [HabiChat](https://github.com/Johnhalk/HabiChat) | A web app which allows users to plan tasks, schedule them in a calendar and communicate with one another. Deployed on Heroku(https://habichat.herokuapp.com/) | Rails, devise, ERB, postgreSQL, HTML/CSS, Bootstrap, JQuery, RSpec/Capybara, Coveralls, WebSockets(ActionCable) |
 | [MakersBnB](https://github.com/Johnhalk/MakersBnB) | An AirBnB clone deployed on Heroku(https://mabnb.herokuapp.com/). | Ruby, Rspec/Capybara, Sinatra, postgres /w DataMapper, Bootstrap, CSS |
 
 ## Skills
