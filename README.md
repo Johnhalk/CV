@@ -72,7 +72,7 @@ A highly selective 16 week intensive software development bootcamp, with focuses
 
 #### University of Sussex (Oct'11 - Jun'14)
 
-- BSc(Hons) Mathematics
+- BSc(Hons) Mathematics 2:1
 - Modules in statistics, financial mathematics, analysis and coding theory.
 
 ## Interests
