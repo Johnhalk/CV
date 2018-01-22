@@ -7,12 +7,12 @@ I am a hardworking and highly motivated full stack software developer. I believe
 Currently I am working as a Software Developer for Makers Consultants and placed in Ladbrokes Coral delivering a greenfield project that integrates in a suite of micro-services. My main interests are JavaScript ES6 and the reactJS framework as well as continuously getting into new tech areas to understand and learn new concepts and how best to utilise them in my skill set.
 
 **Tech Skills** : ReactJS, Redux, JavaScript ES6, Enzyme, Jest, Java8, Spring Boot Python, Django, Ruby, Rails, HTML, CSS, Bootstrap, PostgreSQL
+**Soft Skills**: Excellent communicator, adaptable, attention to detail, enthusiastic attitude, willingness to do
 
-## 
-Experience
+## Experience
+**Ladbrokes Coral Group PLC/ Software Developer**
 October 2017 - Current 
-Ladbrokes Coral Group PLC/ Software Developer
-Working on the EPoS2 programme
+**Working on the EPoS2 programme**
 
 Part of a development team tasked with building and delivering a Greenfield Project for Ladbrokes Coral in an Agile consultancy team.  Web application built in a suite of integrated micro-services using ReactJs and Redux on the front end and Java8 Spring Boot on the back end that consumes Kafka streams and persists data to a Postgres database. 
 Focus on continuous delivery working to always delivering the next piece of software that can add the most value to the business.
@@ -47,17 +47,6 @@ Some of the companies I worked with consisted of:
 | [HabiChat](https://github.com/Johnhalk/HabiChat) | A web app which allows users to plan tasks, schedule them in a calendar and communicate with one another. Deployed on Heroku(https://habichat.herokuapp.com/). | Rails, devise, ERB, postgreSQL, HTML/CSS, Bootstrap, JQuery, RSpec/Capybara, Coveralls, WebSockets(ActionCable) |
 | [MakersBnB](https://github.com/Johnhalk/MakersBnB) | An AirBnB clone deployed on Heroku(https://mabnb.herokuapp.com/). | Ruby, Rspec/Capybara, Sinatra, postgres /w DataMapper, Bootstrap, CSS |
 
-## 'Soft' Skills
-
-#### Excellent communicator
-
-#### Adaptable
-
-#### Attention to detail
-
-#### Enthusiastic attitude
-
-## Education
 
 #### Makers Academy (Jan'17 - Mar'17)
 
