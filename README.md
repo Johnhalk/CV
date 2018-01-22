@@ -4,13 +4,19 @@
 
 I am a hardworking and highly motivated full stack software developer. I believe good software in built on excellent practices and I am looking for a role where I can deliver quality written software, work within a collaborative tech team and learn as much as possible to deliver value to the role.
 
-Currently I am working as a Software Developer for Makers Consultants and placed in Ladbrokes Coral delivering a greenfield project that integrates in a suite of micro-services. My main interests are JavaScript ES6 and the reactJS framework as well as continuously getting into new tech areas to understand and learn new concepts and how best to utilise them in my skill set.
+Currently I am working as a Software Developer for Makers Academy as a consultant and placed in Ladbrokes Coral PLC delivering a greenfield project that integrates in a suite of micro-services. My main interests are JavaScript ES6 and the reactJS framework as well as continuously getting into new tech areas to understand and learn new concepts and how best to utilise them in my skill set.
 
 **Tech Skills** : ReactJS, Redux, JavaScript ES6, Enzyme, Jest, Java8, Spring Boot Python, Django, Ruby, Rails, HTML, CSS, Bootstrap, PostgreSQL
 **Soft Skills**: Excellent communicator, adaptable, attention to detail, enthusiastic attitude, willingness to do
 
 ## Experience
-**Ladbrokes Coral Group PLC**(October'17 - current)
+
+**Makers Academy** (October'17 - current)
+*Software Consulatant*
+
+Employed by Makers Academy as a consultant I have been able to work with the team to develop the vision of the consultancy, with regular feedback and suggestions to shape the future and learn about the progress of the business.
+
+**Ladbrokes Coral Group PLC** (October'17 - current)
 *Software Developer*
 
 **Working on the EPoS2 programme**
@@ -48,6 +54,7 @@ Some of the companies I worked with consisted of:
 | [HabiChat](https://github.com/Johnhalk/HabiChat) | A web app which allows users to plan tasks, schedule them in a calendar and communicate with one another. Deployed on Heroku(https://habichat.herokuapp.com/). | Rails, devise, ERB, postgreSQL, HTML/CSS, Bootstrap, JQuery, RSpec/Capybara, Coveralls, WebSockets(ActionCable) |
 | [MakersBnB](https://github.com/Johnhalk/MakersBnB) | An AirBnB clone deployed on Heroku(https://mabnb.herokuapp.com/). | Ruby, Rspec/Capybara, Sinatra, postgres /w DataMapper, Bootstrap, CSS |
 
+## Education
 
 #### Makers Academy (Jan'17 - Mar'17)
 
