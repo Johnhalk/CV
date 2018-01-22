@@ -1,6 +1,6 @@
 ## John Ashton
 
-[Skills](#skills) |[Experience](#experience) | [Education](#education) | [Projects](#projects) | [Hobbies and Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/john-ashton-890654106) |
+[Skills](#skills) |[Experience](#experience) | [Education](#education) | [Projects](#personal) | [Hobbies and Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/john-ashton-890654106) |
 
 I am a hardworking and highly motivated full stack software developer. I believe good software in built on excellent practices and I am looking for a role where I can deliver quality written software, work within a collaborative tech team and learn as much as possible to deliver value to the role.
 
