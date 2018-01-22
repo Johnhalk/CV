@@ -1,13 +1,15 @@
 ## John Ashton
 
-[Experience](#experience) | [Education](#education) | [Projects](#projects) | [Hobbies and Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/john-ashton-890654106) |
+[Skills](#skills) |[Experience](#experience) | [Education](#education) | [Projects](#projects) | [Hobbies and Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/john-ashton-890654106) |
 
 I am a hardworking and highly motivated full stack software developer. I believe good software in built on excellent practices and I am looking for a role where I can deliver quality written software, work within a collaborative tech team and learn as much as possible to deliver value to the role.
 
 Currently I am working as a Software Developer for Makers Academy as a consultant and placed in Ladbrokes Coral PLC delivering a greenfield project that integrates in a suite of micro-services. My main interests are JavaScript ES6 and the reactJS framework as well as continuously getting into new tech areas to understand and learn new concepts and how best to utilise them in my skill set.
+## Skills
 
 **Tech Skills** : ReactJS, Redux, JavaScript ES6, Enzyme, Jest, Java8, Spring Boot Python, Django, Ruby, Rails, HTML, CSS, Bootstrap, PostgreSQL
-**Soft Skills**: Excellent communicator, adaptable, attention to detail, enthusiastic attitude, willingness to do
+
+**Soft Skills**: Excellent communicator, adaptable, attention to detail, enthusiastic attitude, willingness to learn
 
 ## Experience
 
