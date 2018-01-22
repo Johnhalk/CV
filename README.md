@@ -10,8 +10,8 @@ Currently I am working as a Software Developer for Makers Consultants and placed
 **Soft Skills**: Excellent communicator, adaptable, attention to detail, enthusiastic attitude, willingness to do
 
 ## Experience
-**Ladbrokes Coral Group PLC/ Software Developer**
-October 2017 - Current 
+**Ladbrokes Coral Group PLC**(October'17 - current)
+*Software Developer*
 **Working on the EPoS2 programme**
 
 Part of a development team tasked with building and delivering a Greenfield Project for Ladbrokes Coral in an Agile consultancy team.  Web application built in a suite of integrated micro-services using ReactJs and Redux on the front end and Java8 Spring Boot on the back end that consumes Kafka streams and persists data to a Postgres database. 
