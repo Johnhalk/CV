@@ -26,9 +26,10 @@ Part of a development team tasked with building and delivering a Greenfield Proj
 Focus on continuous delivery working to always delivering the next piece of software that can add the most value to the business.
 
 - Full stack development in ReactJs, Redux, Java. Becoming familiar with new concepts such as Docker, Kafka and AWS.
+- Continuous delivery focusing on the next piece of software that can add the most value to the business
 - Using tools such as JIRA, Jenkins and bitbucket.
-- Involved in interviewing candidates and growing the culture and team within the company.
-- Collectively decided on culture and team principles implementing Agile methodologies in a traditional waterfall environment. - Daily pair programming, TDD and regularly led stand-ups, retrospectives and planning meetings to improve process.
+- Helping develop a positive team culture, implementing Agile methodologies in a Agile methodologies in a traditional waterfall environment. 
+- Daily pair programming, TDD and regularly led stand-ups, retrospectives and planning meetings to improve process.
 
 **Richard Hough Limited** (Jun'14 - Jul'16)    
 *Business Development Manager*
