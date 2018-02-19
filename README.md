@@ -32,19 +32,7 @@ Focus on continuous delivery working to always delivering the next piece of soft
 
 **Richard Hough Limited** (Jun'14 - Jul'16)    
 *Business Development Manager*
-As the Business Development Manager I was tasked with learning the needs and requirements of both the company itself and its customers.  Communication and a thorough understanding of products and technical aspects were required to be successful in this role. I organised and attended exhibition events globally, was the point of contact for customers for maintaining and creating business relations and I was responsible for helping generate sales.
-
-I worked within industry sectors such as Paper, Textiles, Steel and Automotive production lines.  These varying range of industries required me to understand individual tailored requirements for customers dependant on their companies needs.  This has helped me develop a critical eye for detail and see the bigger picture at hand. 
-
-Some of the companies I worked with consisted of:
-
-- Jaguar Land Rover, Automotive (Birmingham)
-- UPM Caledonian Paper, Paper (Scotland)
-- Shanghai General Motors, Automotive (China)
-- Getzner Textil AG, Textiles (Austria)
-- Brigl & Bergmeister, Paper (Austria)
-- Veba, Textiles (Czech Republic)
-
+Responsible for finding and managing new clients in the paper, textiles, steel and automotive industries for one of the world’s leading calendar roller companies. Working with clients to understand their needs so the company could build a customised roller to fit in their production lines.
 
 ## Projects
 
@@ -59,15 +47,9 @@ Some of the companies I worked with consisted of:
 
 #### Makers Academy (Jan'17 - Mar'17)
 
-A highly selective 16 week intensive software development bootcamp, with focuses on:
-
-- A focus on Test Driven Development
-- Agile methodologies
-- Object-oriented programming & software design
-- Pair programming
-- Full Stack web development
-- Independent learning and critical thinking
-- Experience with MVC framework patterns
+A highly selective 16-week intensive software development bootcamp focusing on: 
+• Ruby, Ruby on Rails, JavaScript, ReactJS, TDD, Agile methodologies, OOP
+• Pair programming, independent learning and critical thinking
 
 #### University of Sussex (Oct'11 - Jun'14)
 
@@ -77,6 +59,6 @@ A highly selective 16 week intensive software development bootcamp, with focuses
 ## Interests
 
 - Active member of the Kings Cross Steelers rugby club here in London.
-- Going to the gym.
+- Coding Alexa skills for my home.
 - Computer game enthusiast.
-- Enjoy overseas travel.
+- Going to the gym.
