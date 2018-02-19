@@ -17,7 +17,7 @@ I am a full-stack software developer who believes good software is built on exce
 
 Employed by Makers Academy as a consultant I have been able to work with the team to develop the vision of the consultancy, with regular feedback and suggestions to shape the future and learn about the progress of the business.
 
-**Ladbrokes Coral Group PLC** (October'17 - current)
+**Ladbrokes Coral Group PLC** (October'17 - February'18)
 *Software Developer*
 
 **Working on the EPoS2 programme**
